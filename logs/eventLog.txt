@@ -1,0 +1,95 @@
+20220421	12:55:11	b263879c-3228-499e-a55d-ce27a17548e6t -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Beards
+20220421	12:55:21	96acaa94-fac3-47f8-a254-0610b18c877et -- A Postgres Census Province Log Event has been Emitted! Province: NL
+20220421	12:55:31	b28a3768-fc3c-495a-9ba2-ec847ec77b8bt -- A Census Year Log Event has been Emitted! Year: 2017
+20220421	12:55:41	d1eeccc6-277e-4267-8051-e7afa549aba2t -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 177
+20220421	13:17:32	17398ca6-562f-45ba-a3e3-0127b5ed9fc5t -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Beards
+20220421	13:52:13	3cd176dc-e422-454f-8493-de0ab898bf79t -- The login User Id is1
+20220421	13:52:13	59762a71-ae8a-411d-afd4-426579585fd5t -- The login User Id is1
+
+20220421	16:16:32	6cbadb01-636b-4126-960d-bcc43ec363ddt -- A Log Event has been Emitted!
+20220421	16:16:35	89da4aa1-6c18-44ea-b446-8940368ef1d9t -- User login email Id is :gerald@gerald
+20220421	16:16:55	50888aea-a608-4dcf-a4b1-a50196240bdft -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Beards
+20220421	16:35:16	53a42a05-afff-4a7b-a173-d72e3d09cadft -- A Log Event has been Emitted!
+20220421	16:40:00	50a9614d-dad5-49b7-8316-0c98ff987759t -- User login email Id is :barry@barry
+20220421	16:48:53	d87e12e2-38bf-4437-90ef-88779ad47ba4t -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Acott
+20220421	16:50:00	aef8661c-8403-4e69-b4a2-dbc7013557b9t -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Acott
+20220421	16:50:20	2553a6b7-6899-4202-bb6c-256594acf94dt -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Acott
+20220421	16:51:58	3aa91310-a08b-46e0-a2de-036339806e61t -- A Postgres Census Province Log Event has been Emitted! Province: NS
+20220421	16:52:33	67b6e377-2a71-400c-86a6-7e1ad88fa8adt -- A Postgres Census Province Log Event has been Emitted! Province: NS
+20220421	16:53:24	e1426086-d274-43d0-9937-d5fbc8bca678t -- A Postgres Census Province Log Event has been Emitted! Province: NS
+20220421	16:53:45	68f7afb1-0f20-404f-a390-843d0dd1d97ft -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Albert
+20220421	16:54:19	bc20d81d-6af0-4fab-a4a6-26a9ce382f0et -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Albert
+20220421	16:54:41	ede119f3-bfab-4f47-adc6-366deda63631t -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Albert
+20220421	16:54:57	ba23f416-da7c-4b10-b69f-785859409e57t -- A Postgres Census Province Log Event has been Emitted! Province: NL
+20220421	16:55:16	d3faa2a4-2c99-4618-89d2-8e99354cd89at -- A Census Year Log Event has been Emitted! Year: 2016
+20220421	16:55:31	ad279d39-6981-4c04-aae3-b853de7cb2b2t -- A Census Year Log Event has been Emitted! Year: 2019
+20220421	16:55:31	8e2a586d-0c77-4b0c-975e-c863256dc91ft -- A Census Year Log Event has been Emitted! Year: 2019
+20220421	16:56:05	6e60ce58-e6af-429f-b939-c12db2c1ac6at -- A Census Year Log Event has been Emitted! Year: 2022
+20220421	16:56:05	b061ea5c-975d-453c-a566-9e47f795e883t -- A Census Year Log Event has been Emitted! Year: 2022
+20220421	16:56:05	aa4cf30d-346b-4bfb-94e3-83df8d1644e9t -- A Census Year Log Event has been Emitted! Year: 2022
+20220421	16:56:54	03a227ed-e862-45fb-b0ec-fc8b45a5181dt -- A Census Year Log Event has been Emitted! Year: 2022
+20220421	16:56:54	be1ae1d9-cb04-42d8-89b9-6773a60cef58t -- A Census Year Log Event has been Emitted! Year: 2022
+20220421	16:56:54	93fb4b03-6c2b-4811-8fe6-d1e2e11861a2t -- A Census Year Log Event has been Emitted! Year: 2022
+20220421	16:56:54	b5230f2f-2ccf-4975-ac81-5090e7740c93t -- A Census Year Log Event has been Emitted! Year: 2022
+20220421	16:58:04	bcba4207-2878-42e0-a6a8-0adea86dafddt -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	16:58:04	46b6c2fd-72d9-4adb-a005-90c3ef010b38t -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	16:58:04	bdac6d00-e57c-4262-8936-17be1e2fcbc4t -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	16:58:04	5d476004-3586-4674-b2ab-17885ff1c212t -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	16:58:04	b0f36f1b-9f33-4947-991b-523495f07bdft -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	16:58:13	225aec3a-d3b4-4673-803e-3a3fb5b982c4t -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 599
+20220421	16:58:13	55771dfb-b790-4ea6-b846-06ae4b30234et -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 599
+20220421	16:58:13	52e2a8b5-8f6f-4458-b8a2-cc9c5b8c6be5t -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 599
+20220421	16:58:13	082adb78-d8cb-4a45-b82e-60961ecf363ct -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 599
+20220421	16:58:13	e3fc3765-4b1d-4316-996e-ce85d17ee4b3t -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 599
+20220421	16:58:13	c7b6b54c-5989-42eb-b480-c558c6a3588ft -- A Postgres Census Household Id  Log Event has been Emitted! Household Id: 599
+20220421	17:01:55	894bc0b8-c6e7-41d6-b4b2-fed99ac9c597t -- A Log Event has been Emitted!
+20220421	17:02:03	6b8d1f7b-0d6f-4b64-bfbe-971e765246fat -- A Log Event has been Emitted!
+20220421	17:02:21	540be383-f62c-4ab2-9f6a-b1b7bd071b48t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Grace
+20220421	17:03:10	47ee3ba6-7112-4172-af82-0c1db5457050t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Grace
+20220421	17:03:19	50b506a1-fba8-4b92-afef-f1335242b633t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Grace
+20220421	17:04:33	b88f1dcf-8816-4d00-9953-12b6fc4ebdc3t -- A Log Event has been Emitted!
+20220421	17:04:41	b385b7f1-228f-484f-95c5-f333b44a968ct -- A Log Event has been Emitted!
+20220421	17:04:53	25b03561-7f36-4ffc-9dd4-8c320f23305ft -- A Log Event has been Emitted!
+20220421	17:04:59	f1044959-920b-4f7d-a6c7-12c6e504feabt -- A Log Event has been Emitted!
+20220421	17:05:15	fb38b38a-839a-401f-b359-988f59128374t -- A Log Event has been Emitted!
+20220421	17:05:19	8c068f6c-1996-4d1e-a950-efc22bb5cb95t -- A Mongo Census Province  Log Event has been Emitted! Province : BC
+20220421	17:05:21	5d88b912-604e-4bf6-aebf-614c24a18e10t -- A Log Event has been Emitted!
+20220421	17:05:21	ffdb57a7-9dba-4860-8937-692c92bf3451t -- A Mongo Census Province  Log Event has been Emitted! Province : BC
+20220421	17:05:57	b10e8159-d12b-4917-8998-ecbacd223161t -- A Mongo Census Province  Log Event has been Emitted! Province : BC
+20220421	17:06:46	65534b75-184e-4bc0-b457-b2d0a0516690t -- A Mongo Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	17:07:10	9881e2e8-69e2-4b87-af4f-2ef5e60dce7ft -- A Mongo Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	17:07:45	00972327-ef3f-4ed5-b612-c6b2cf059fa5t -- A Mongo Census Household Id  Log Event has been Emitted! Household Id: 549
+20220421	17:09:06	c1266cce-b687-47ba-aa1e-c98cce997209t -- A Mongo Census Year Log Event has been Emitted! Year: 2022
+20220421	17:09:17	34b4b90e-b804-49b7-b098-30b0cc59364dt -- A Mongo Census Year Log Event has been Emitted! Year: 2019
+20220421	17:10:12	390e3699-93f5-4a04-a29d-b9a0e5e9446at -- A Mongo Census Year Log Event has been Emitted! Year: 2019
+20220421	19:21:31	54011f22-1f74-46e8-8618-496482c81a2et -- A Log Event has been Emitted!
+20220421	19:21:39	13676302-062c-453a-a723-1fd9168ae8e2t -- User login email Id is :dave@dave
+20220421	19:25:32	1485a84c-cf94-4c10-a2cd-6a94da9c5cbdt -- A Log Event has been Emitted!
+20220421	19:25:52	bd937789-6269-46a9-9c82-64331df09be2t -- User login email Id is :dave@dave
+20220421	19:26:00	6b31bc3c-c5cc-42c7-8958-e6494f746eedt -- A Postgres Census Family Name  Log Event has been Emitted! Family Name: Beards
+20220421	19:26:17	7de6247e-b849-48bc-82f2-900665d5ae85t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Braunfeld
+20220421	19:27:09	66924736-8cc5-40de-b59f-b88521bb846dt -- A Log Event has been Emitted!
+20220421	19:27:23	a42c37fa-b21d-4773-a70a-72f7e5562232t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Braunfeld
+20220421	19:27:37	9e64ce20-9e84-42bd-a2d5-6636a7909a5dt -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Bonsey
+20220421	19:28:10	b629cea4-a91b-49d8-bf19-b583279379c3t -- A Log Event has been Emitted!
+20220421	19:28:26	a3f4c772-fcd7-44fe-962e-bc5b68674441t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Braunfeld
+20220421	19:28:33	de698b94-1ee2-4585-8582-8eaf124e0582t -- A Mongo Census Province  Log Event has been Emitted! Province : NL
+20220421	19:29:48	a3fb43e5-c213-43c2-b324-dd2f0d50084ct -- A Log Event has been Emitted!
+20220421	19:30:02	7f25a66b-d7cf-4401-81ce-4362336a394et -- A Log Event has been Emitted!
+20220421	19:30:35	f96cebdb-1dcd-4828-b389-97e53f58d1d8t -- A Log Event has been Emitted!
+20220421	19:31:14	6db69d15-d005-436b-8dad-7d126b70585bt -- A Log Event has been Emitted!
+20220421	19:31:25	5b79b1d6-f6a2-473f-b19e-10033472ed32t -- User login email Id is :dave@dave
+20220421	19:31:32	fe545d19-5a13-4b54-91af-26c59a4b13d0t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Braunfeld
+20220421	19:35:22	7a1a9e64-87ba-45f4-9d8e-5c2d3af06309t -- A Log Event has been Emitted!
+20220421	19:35:35	f8fd2832-44fe-44fb-ae55-c4d1608878e6t -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Braunfeld
+20220421	19:36:00	06e80345-301a-4525-8354-ca96c10da557t -- A Log Event has been Emitted!
+20220421	19:36:55	be45abfc-b8e9-4590-9d96-c33a3db3d0e6t -- A Log Event has been Emitted!
+20220421	19:37:29	ecd2f4fc-c03a-4f29-846b-85d162c58a7et -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Braunfeld
+20220421	19:37:35	361632a4-6c52-466f-ba16-647aca872aaet -- User login email Id is :dave@dave
+20220421	19:37:43	215b7b99-5e81-4267-bedb-8ac5ab534ed7t -- A Mongo Census Year Log Event has been Emitted! Year: 2020
+20220421	19:38:28	dd75c087-d914-4450-a0d4-465044fae65bt -- A Log Event has been Emitted!
+20220421	19:38:29	af49cfb4-cd9a-40b3-916a-fe3304924e37t -- A Log Event has been Emitted!
+20220421	19:39:03	3e518cfd-1aa2-4582-8d6c-c443b2124fbdt -- A Log Event has been Emitted!
+20220421	19:39:21	7a20ec94-602c-404c-874b-70924deaa0f3t -- A Log Event has been Emitted!
+20220421	19:40:06	757e416e-f8aa-469f-aba2-9c6448d699e2t -- A Log Event has been Emitted!
+20220421	19:42:47	6cde3152-9531-4c66-b177-2986a1322cadt -- A Mongo Census Family Name  Log Event has been Emitted! Family Name: Braunfeld
